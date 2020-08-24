@@ -61,7 +61,7 @@
 		</div>
 		<div class="col-six tab-full">
 			<h3>Skills</h3>
-			<p>Technologies that I have learn and use for some projects :</p>
+			<p>Technologies that I have learn and use in projects :</p>
 			<div class="row">
 				<?php for ($i=0; $i < count($skill); $i++):?>
 				<div class="col-six">
